@@ -1,0 +1,56 @@
+.addColumnButtonWrapper {
+  min-width: 360px;
+  height: 55px;
+  border-style: dashed;
+  border-color:  #F4F4F4 ;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 15px ;
+  font-family: "Poppins";
+}
+
+.addColumnButton_text {
+  font-size: 20px;
+}
+
+.addColumnButtonInput {
+  margin: 15px;
+  width: 360px;
+  height: 50px;
+  border-style: dashed;
+  border-color:  #F4F4F4 ;
+  border-radius: 10px;
+}
+
+.addColumnButtonInput {
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.columnNameInput {
+  width: 200px;
+  height: 40px;
+  border: 0px;
+  background-color: #F4F4F4;
+  border-radius: 25px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.confirmColumnName {
+  color: white;
+  margin-top: 5px;
+  width: 150px;
+  height: 30px;
+  border: 0px;
+  background-color: #007ac0;
+  border-radius: 25px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
